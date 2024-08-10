@@ -1,0 +1,21 @@
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #6d5b0e;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px rgba(207, 15, 15, 0.1);}
+    h1 {
+        color: #e00404;
+        text-align: center;
+    }
+    
+    p {
+        color: #470505;
+        line-height: 1.6;
+    }
+    
+    a {
+        color: #007bff;
+        text-decoration: none;
+    }
